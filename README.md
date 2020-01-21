@@ -4,4 +4,3 @@ The company Hypermobility wants to introduce new data sources (in this case traf
 To do this, we use the architecture that has the company already established, which allows real-time analysis.
 Here you have high level architecture of the application provided by company.
 
-![Architecture](https://user-images.githubusercontent.com/55293318/72804819-b088e300-3c51-11ea-8a1c-2d9d63af74a7.PNG)
