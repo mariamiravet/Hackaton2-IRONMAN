@@ -6,4 +6,4 @@ Here you have high level architecture of the application.
 
 ## Architecture
 
-
+![Architecture](https://user-images.githubusercontent.com/55293318/73071262-a7e31780-3eb2-11ea-83ad-d9dab2748356.PNG)
