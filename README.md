@@ -7,7 +7,7 @@ Aquí tienes la arquitectura de alto nivel de la aplicación.
 
 ## Fuentes de datos 
 
-- Estaciones Valenbici 
+- Estaciones Valenbici http://api.citybik.es/v2/networks/valenbisi
 - Estado del tráfico http://apigobiernoabiertortod.valencia.es/apirtod/rest/datasets/estado_trafico.json
 - Aparcabicis públicos http://mapas.valencia.es/lanzadera/opendata/aparcabicis/JSON
 - Intensidad de vehículos (bicicletas y patinetes) http://apigobiernoabiertortod.valencia.es/apirtod/rest/datasets/intensidad_espiras.json
