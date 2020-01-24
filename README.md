@@ -2,8 +2,7 @@
 
 La empresa Hypermobility quiere insertar en su cuadro de mandos nuevas fuentes de datos con el fin de analizarlas para mejorar sus servicios. 
 
-Para ello, utilizamos la arquitectura que la empresa ya ha establecido, que permite la visualización en tiempo real.
-Aquí tienes la arquitectura de alto nivel de la aplicación.
+Para ello, utilizamos la arquitectura que la empresa ya tiene establecida, que permite la visualización en tiempo real.
 
 ## Fuentes de datos 
 
